@@ -1,0 +1,666 @@
+C:\Users\student\Desktop\linebot test2\bin\linebot test2.dll.config
+C:\Users\student\Desktop\linebot test2\bin\linebot test2.dll
+C:\Users\student\Desktop\linebot test2\bin\linebot test2.pdb
+C:\Users\student\Desktop\linebot test2\bin\roslyn\csc.exe
+C:\Users\student\Desktop\linebot test2\bin\roslyn\csc.exe.config
+C:\Users\student\Desktop\linebot test2\bin\roslyn\csc.rsp
+C:\Users\student\Desktop\linebot test2\bin\roslyn\csi.exe
+C:\Users\student\Desktop\linebot test2\bin\roslyn\csi.exe.config
+C:\Users\student\Desktop\linebot test2\bin\roslyn\csi.rsp
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\linebot test2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.AppContext.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Console.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Net.Http.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Desktop\linebot test2\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\linebot test2\bin\roslyn\vbc.exe.config
+C:\Users\student\Desktop\linebot test2\bin\roslyn\vbc.rsp
+C:\Users\student\Desktop\linebot test2\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\linebot test2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\linebot test2\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\linebot test2\bin\LineBot.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\linebot test2\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Buffers.dll
+C:\Users\student\Desktop\linebot test2\bin\System.ComponentModel.Annotations.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Memory.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Numerics.Vectors.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Http.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Http.WebHost.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\linebot test2\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\linebot test2\bin\WebGrease.dll
+C:\Users\student\Desktop\linebot test2\bin\LineBot.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Options.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Buffers.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Memory.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Numerics.Vectors.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Text.Encodings.Web.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\linebot test2\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\linebot test2\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\linebot test2\bin\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Http.xml
+C:\Users\student\Desktop\linebot test2\bin\System.Web.Http.WebHost.xml
+C:\Users\student\Desktop\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\student\Desktop\linebot test2\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\student\Desktop\linebot test2\obj\Debug\linebot test2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\linebot test2\obj\Debug\linebot test2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\linebot test2\obj\Debug\linebot test2.csproj.CopyComplete
+C:\Users\student\Desktop\linebot test2\obj\Debug\linebot test2.dll
+C:\Users\student\Desktop\linebot test2\obj\Debug\linebot test2.pdb
+C:\Users\denny\Desktop\linebot test2\bin\linebot test2.dll.config
+C:\Users\denny\Desktop\linebot test2\bin\linebot test2.dll
+C:\Users\denny\Desktop\linebot test2\bin\linebot test2.pdb
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\csc.exe
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\csc.exe.config
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\csc.rsp
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\csi.exe
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\csi.exe.config
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\csi.rsp
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.AppContext.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Console.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.IO.Compression.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Net.Http.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.ValueTuple.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\vbc.exe
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\vbc.exe.config
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\vbc.rsp
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\VBCSCompiler.exe
+C:\Users\denny\Desktop\linebot test2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\denny\Desktop\linebot test2\bin\Antlr3.Runtime.dll
+C:\Users\denny\Desktop\linebot test2\bin\LineBot.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Options.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\denny\Desktop\linebot test2\bin\Newtonsoft.Json.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Buffers.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.ComponentModel.Annotations.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Memory.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Net.Http.Formatting.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Numerics.Vectors.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Text.Encodings.Web.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Helpers.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Http.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Http.WebHost.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Mvc.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Optimization.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Razor.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.WebPages.dll
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.WebPages.Razor.dll
+C:\Users\denny\Desktop\linebot test2\bin\WebGrease.dll
+C:\Users\denny\Desktop\linebot test2\bin\LineBot.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Options.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Buffers.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Memory.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Numerics.Vectors.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Text.Encodings.Web.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Helpers.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Mvc.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Optimization.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Razor.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.WebPages.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.WebPages.Razor.xml
+C:\Users\denny\Desktop\linebot test2\bin\Newtonsoft.Json.xml
+C:\Users\denny\Desktop\linebot test2\bin\Antlr3.Runtime.pdb
+C:\Users\denny\Desktop\linebot test2\bin\System.Net.Http.Formatting.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Http.xml
+C:\Users\denny\Desktop\linebot test2\bin\System.Web.Http.WebHost.xml
+C:\Users\denny\Desktop\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\denny\Desktop\linebot test2\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\denny\Desktop\linebot test2\obj\Debug\linebot test2.csprojAssemblyReference.cache
+C:\Users\denny\Desktop\linebot test2\obj\Debug\linebot test2.csproj.CoreCompileInputs.cache
+C:\Users\denny\Desktop\linebot test2\obj\Debug\linebot test2.csproj.CopyComplete
+C:\Users\denny\Desktop\linebot test2\obj\Debug\linebot test2.dll
+C:\Users\denny\Desktop\linebot test2\obj\Debug\linebot test2.pdb
+D:\劉威廷\Desktop\linebot test2\bin\linebot test2.dll.config
+D:\劉威廷\Desktop\linebot test2\bin\linebot test2.dll
+D:\劉威廷\Desktop\linebot test2\bin\linebot test2.pdb
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\csc.exe
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\csc.exe.config
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\csc.rsp
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\csi.exe
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\csi.exe.config
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\csi.rsp
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.AppContext.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Collections.Immutable.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Console.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Globalization.Calendars.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.IO.Compression.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.IO.FileSystem.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Net.Http.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Net.Sockets.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Reflection.Metadata.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.ValueTuple.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Xml.XPath.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\vbc.exe
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\vbc.exe.config
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\vbc.rsp
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\VBCSCompiler.exe
+D:\劉威廷\Desktop\linebot test2\bin\roslyn\VBCSCompiler.exe.config
+D:\劉威廷\Desktop\linebot test2\bin\Antlr3.Runtime.dll
+D:\劉威廷\Desktop\linebot test2\bin\LineBot.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyModel.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.ObjectPool.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Options.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Primitives.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Net.Http.Headers.dll
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Web.Infrastructure.dll
+D:\劉威廷\Desktop\linebot test2\bin\Newtonsoft.Json.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Buffers.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.ComponentModel.Annotations.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Memory.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Net.Http.Formatting.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Numerics.Vectors.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Text.Encodings.Web.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Threading.Tasks.Extensions.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Helpers.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Http.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Http.WebHost.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Mvc.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Optimization.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Razor.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.WebPages.Deployment.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.WebPages.dll
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.WebPages.Razor.dll
+D:\劉威廷\Desktop\linebot test2\bin\WebGrease.dll
+D:\劉威廷\Desktop\linebot test2\bin\LineBot.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.ObjectPool.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Options.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Extensions.Primitives.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Net.Http.Headers.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Buffers.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Memory.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Numerics.Vectors.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Text.Encodings.Web.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Threading.Tasks.Extensions.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Helpers.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Mvc.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Optimization.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Razor.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.WebPages.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.WebPages.Deployment.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.WebPages.Razor.xml
+D:\劉威廷\Desktop\linebot test2\bin\Newtonsoft.Json.xml
+D:\劉威廷\Desktop\linebot test2\bin\Antlr3.Runtime.pdb
+D:\劉威廷\Desktop\linebot test2\bin\System.Net.Http.Formatting.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Http.xml
+D:\劉威廷\Desktop\linebot test2\bin\System.Web.Http.WebHost.xml
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.Http.resources.dll
+D:\劉威廷\Desktop\linebot test2\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\劉威廷\Desktop\linebot test2\obj\Debug\linebot test2.csproj.AssemblyReference.cache
+D:\劉威廷\Desktop\linebot test2\obj\Debug\linebot test2.csproj.CoreCompileInputs.cache
+D:\劉威廷\Desktop\linebot test2\obj\Debug\linebot test2.csproj.CopyComplete
+D:\劉威廷\Desktop\linebot test2\obj\Debug\linebot test2.dll
+D:\劉威廷\Desktop\linebot test2\obj\Debug\linebot test2.pdb
+D:\劉威廷\Desktop\linebot test2\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\linebot test2.dll.config
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\linebot test2.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\linebot test2.pdb
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\csc.exe
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\csc.exe.config
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\csc.rsp
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\csi.exe
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\csi.exe.config
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\csi.rsp
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.AppContext.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Console.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Net.Http.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\vbc.exe
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\vbc.exe.config
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\vbc.rsp
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Antlr3.Runtime.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\LineBot.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Options.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Newtonsoft.Json.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Buffers.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.ComponentModel.Annotations.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Memory.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Net.Http.Formatting.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Numerics.Vectors.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Text.Encodings.Web.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Helpers.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Http.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Http.WebHost.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Mvc.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Optimization.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Razor.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.WebPages.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\WebGrease.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\LineBot.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Options.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Buffers.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Memory.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Numerics.Vectors.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Text.Encodings.Web.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Helpers.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Mvc.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Optimization.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Razor.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.WebPages.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Newtonsoft.Json.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Antlr3.Runtime.pdb
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Net.Http.Formatting.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Http.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\System.Web.Http.WebHost.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\obj\Debug\linebot test2.csproj.AssemblyReference.cache
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\obj\Debug\linebot test2.csproj.CoreCompileInputs.cache
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\obj\Debug\linebot test2.csproj.CopyComplete
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\obj\Debug\linebot test2.dll
+C:\Users\Jincoco\Desktop\linebot test2\linebot test2\obj\Debug\linebot test2.pdb
